@@ -9,6 +9,7 @@ let genBtn = document.getElementById("genBtn");
 let copyIcon = document.getElementById("copyIcon");
 
 
+
 // Showing input slider value 
 sliderValue.textContent = inputSlider.value;
 inputSlider.addEventListener('input', ()=>{

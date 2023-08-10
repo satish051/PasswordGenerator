@@ -55,6 +55,7 @@ body{
     text-overflow: ellipsis;
 }
 
+
 .row{
     display: flex;
     margin-block: 8px;
@@ -82,6 +83,7 @@ body{
     cursor: pointer;
     border-radius: 4px;
 }
+
 
 .genBtn:hover{
     background-color: #0066ff;
